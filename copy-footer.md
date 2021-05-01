@@ -1,3 +1,5 @@
+Harp Guru is available for download on Android and iOS now.
+\
 https://play.google.com/store/apps/details?id=com.jslog.harpguru \
 https://apps.apple.com/us/app/harp-guru/id1552752923 \
 \
